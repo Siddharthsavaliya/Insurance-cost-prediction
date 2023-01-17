@@ -1,1 +1,1 @@
-# Siddharthsavaliya-Insurance-cost-prediction
+# Insurance-cost-prediction
